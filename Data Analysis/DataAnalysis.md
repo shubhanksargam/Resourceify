@@ -57,6 +57,12 @@
   2. NumPy and Pandas for 1D Data.
   3. NumPy and Pandas for 2D Data.
   4. Investigate a Dataset.
+  
+- [ ] [Data Analysis With Python](https://www.coursera.org/learn/data-analysis-with-python) (by Coursera). ~ 24 hours.
+  1. Importing Datasets.
+  2. Data Wrangling.
+  3. Exploratory Data Analysis.
+  4. Model Development.
 
 # R 
 - [X] [Exploratory Data Analysis](http://www.ehu.eus/en/web/kisa/prestakuntza-programa) (by Iñaki Inza, Itziar Irigoien, Yosu Yurramendi, Javier Muguerza, Ibai Gurrutxaga, José
@@ -149,3 +155,14 @@ Txus Perez. *Master in Computational Engineering and Intelligent Systems*, Unive
   4. Introduction of variable selection. Selection of the relevant variables for the analysis. Types of techniques.
   5. Estimation of the percentage of good classifier and statistical tests for the comparison of classifiers: evaluation and credibility of the learned models.
   6. Discussion and study of concrete case studies: Bioinformatics.
+  
+  
+  # Contributing
+
+Contributions are very welcome, please share back with the wider community (and get credited for it)!
+
+Please have a look at the [CONTRIBUTING](contributing.md) guidelines, also have a read about our [licensing](https://github.com/Data-Science-Community-SRM/Resourceify/blob/master/LICENSE) policy.
+
+---
+
+Back to [main page (table of contents)](https://data-science-community-srm.github.io/Resourceify/)
